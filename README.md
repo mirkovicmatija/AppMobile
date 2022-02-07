@@ -4,7 +4,7 @@ Repository made for the containment of an app made for M:tel App Competition (Bi
 An app that allows you to write down all the required data to keep track of your car maintainance, with the ability to display all the data in a useful, yet readable way.
 It also has a way for the user to find latest news surrounding COVID19 development in countries featured in the competition.
 
-Should work without many issues on iOS aswell.
+Should work without many issues on iOS aswell. In case you wish to run on an iOS device, please run pos install in the ios directory prior to attempting to run it.
 
 
 Note:
