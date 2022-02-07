@@ -1,12 +1,3 @@
-<<<<<<< HEAD
-import React from 'react';
-import {Text, View, StyleSheet} from 'react-native';
-
-const TravelInfoScreen = () => {
-  return (
-    <View>
-      <Text>TravelInfoScreen</Text>
-=======
 import React, {useState, useEffect} from 'react';
 import {View, StyleSheet} from 'react-native';
 import Header from '../components/Header';
@@ -151,14 +142,10 @@ const TravelInfoScreen = ({navigation, route}) => {
           </View>
         </View>
       </View>
->>>>>>> origin/gramatika
     </View>
   );
 };
 
-<<<<<<< HEAD
-const styles = StyleSheet.create({});
-=======
 const styles = StyleSheet.create({
   lowerView: {
     width: '90%',
@@ -246,6 +233,5 @@ const styles = StyleSheet.create({
     padding: 10,
   },
 });
->>>>>>> origin/gramatika
 
 export default TravelInfoScreen;

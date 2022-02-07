@@ -14,7 +14,6 @@ import Icon from 'react-native-vector-icons/MaterialCommunityIcons';
 import LinearGradient from 'react-native-linear-gradient';
 import Constants from '../constants/Constants';
 import InputTypeColors from '../constants/InputTypeColors';
-import App from '../../App';
 import {
   MaterialCommunityIcon,
   MaterialIcon,

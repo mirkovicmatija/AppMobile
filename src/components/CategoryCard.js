@@ -20,7 +20,6 @@ import {
 import IconFA from 'react-native-vector-icons/FontAwesome';
 import LinearGradient from 'react-native-linear-gradient';
 import Constants from '../constants/Constants';
-import App from '../../App';
 import Colors from '../constants/InputTypeColors';
 
 const CategoryCard = (props) => {
